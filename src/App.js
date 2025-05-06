@@ -4,7 +4,8 @@ import './App.css';
 const quizData = [
     { question: 'What is the capital of France?', options: ['Paris', 'London', 'Berlin', 'Madrid'], correctAnswer: 'Paris' },
     { question: 'What is 2 + 2?', options: ['3', '4', '5', '6'], correctAnswer: '4' },
-    { question: 'Who wrote "Romeo and Juliet"?', options: ['William Shakespeare', 'Charles Dickens', 'Jane Austen', 'Mark Twain'], correctAnswer: 'William Shakespeare' }
+    { question: 'Who wrote "Romeo and Juliet"?', options: ['William Shakespeare', 'Charles Dickens', 'Jane Austen', 'Mark Twain'], correctAnswer: 'William Shakespeare' },
+    { question: 'What is the longest river in the world?', options: ['Nile River', 'Jordan River', 'Amazon River', 'Pasig River'], correctAnswer: 'Nile River' }
 ];
 
 function App() {
