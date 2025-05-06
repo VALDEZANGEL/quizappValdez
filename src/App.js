@@ -5,8 +5,9 @@ const quizData = [
     { question: 'What is the capital of France?', options: ['Paris', 'London', 'Berlin', 'Madrid'], correctAnswer: 'Paris' },
     { question: 'What is 2 + 2?', options: ['3', '4', '5', '6'], correctAnswer: '4' },
     { question: 'Who wrote "Romeo and Juliet"?', options: ['William Shakespeare', 'Charles Dickens', 'Jane Austen', 'Mark Twain'], correctAnswer: 'William Shakespeare' },
-    { question: 'What is the longest river in the world?', options: ['Nile River', 'Jordan River', 'Amazon River', 'Pasig River'], correctAnswer: 'Nile River' },
-    { question: 'What is the most perfect cone shaped volcano in the world', options: ['Mount Fuji', 'Mount Mayon', 'Mount Arenal', 'Mount Taranaki'], correctAnswer: 'Mount Mayon'}
+    { question: 'What is the longest river in the world?', options: ['Pasig River', 'Jordan River', 'Amazon River', 'Nile River'], correctAnswer: 'Nile River' },
+    { question: 'What is the most perfect cone shaped volcano in the world', options: ['Mount Fuji', 'Mount Arenal', 'Mount Mayon', 'Mount Taranaki'], correctAnswer: 'Mount Mayon' },
+    { question: 'How many Continents are in the world?', options: ['5', '6', '7', '8'], correctAnswer: '7'}
 ];
 
 function App() {
